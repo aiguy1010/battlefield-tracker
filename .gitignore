@@ -1,0 +1,2 @@
+# Ignore data gathered in each specific instance of the repo
+*.csv
